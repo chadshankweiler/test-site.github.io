@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Windows 11 Setup"
+title: "Azure Windows 11 VM Setup"
 categories: misc
 ---
 
