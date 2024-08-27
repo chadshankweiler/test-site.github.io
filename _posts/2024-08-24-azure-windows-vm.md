@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Sentinel Setup"
+title: "Azure Windows 11 Setup"
 categories: misc
 ---
 
