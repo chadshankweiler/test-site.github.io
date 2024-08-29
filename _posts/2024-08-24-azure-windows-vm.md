@@ -4,7 +4,7 @@ title: "Azure Windows 11 VM Setup"
 categories: misc
 ---
 
-
+Setting up a basic Windows 11 VM in Azure
 
 ![test](/assets/sentinel-rule-01.png)
 
