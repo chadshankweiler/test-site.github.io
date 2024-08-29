@@ -15,7 +15,7 @@ categories: misc
 Create Resource Group
 ![test](/assets/azure-windows-vm-setup/vm-setup-04.png)
 ![test](/assets/azure-windows-vm-setup/vm-setup-05.png)
-![tet](/assets/azure-windows-vm-setup/vm-setup-06.png)
+![tets](/assets/azure-windows-vm-setup/vm-setup-06.png)
 ![test](/assets/azure-windows-vm-setup/vm-setup-07.png)
 ![test](/assets/azure-windows-vm-setup/vm-setup-08.png)
 ![test](/assets/azure-windows-vm-setup/vm-setup-09.png)
